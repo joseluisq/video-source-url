@@ -1,0 +1,24 @@
+{
+  "name": "video-source-url",
+  "version": "0.1.0",
+  "description": "Get video source from Youtube or Vimeo URL.",
+  "repository": "joseluisq/video-source-url",
+  "license": "MIT",
+  "author": {
+    "name": "José Luis Quintana",
+    "url": "http://git.io/joseluisq"
+  },
+  "keywords": [
+    "source",
+    "video",
+    "url",
+    "youtube",
+    "vimeo"
+  ],
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "devDependencies": {
+    "tape": "*"
+  }
+}
