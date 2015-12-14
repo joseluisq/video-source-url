@@ -1,4 +1,4 @@
-# Video Source URL
+# Video Source URL [![Build Status](https://travis-ci.org/joseluisq/video-source-url.svg?branch=master)](https://travis-ci.org/joseluisq/video-source-url)
 > Get video source from Youtube or Vimeo URL.
 
 ![video-source-url](https://cloud.githubusercontent.com/assets/1700322/11771175/a0d445f0-a1da-11e5-9c34-dccc1f6fd723.gif)
